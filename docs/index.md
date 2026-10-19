@@ -19,36 +19,27 @@ hero:
 features:
   - icon: 🪶
     title: 纯净轻快
-    details: 拒绝广告，只做输入本身。
+    details: 九键、全拼、双拼，覆盖不同习惯。
   - icon: 🔒
     title: 隐私安全
     details: 完全离线，不采集、不上传数据。
-  - icon: ⌨️
-    title: 多方案支持
-    details: 九键、全拼、双拼，覆盖不同习惯。
   - icon: 🎨
-    title: 个性化键盘
+    title: 个性配置
     details: 悬浮、单手、数字行等键盘模式。
+  - icon: 🤝
+    title: 开源共建
+    details: 代码开源，随时审查、反馈及交流。
   - icon:  
+      src: /1.png
+      style: "width: 400px"
+  - icon:
       src: /2.png
       style: "width: 400px"
-    # title: 纯净轻快
-    # details: 拒绝广告与臃肿功能，只做输入本身，启动快，占用低。
   - icon:
       src: /3.png
       style: "width: 400px"
-    # title: 纯净轻快
-    # details: 拒绝广告与臃肿功能，只做输入本身，启动快，占用低。
   - icon:
-      src: /1.png
+      src: /4.png
       style: "width: 400px"
-    # title: 纯净轻快
-    # details: 拒绝广告与臃肿功能，只做输入本身，启动快，占用低。
-  - icon:
-      src: /2.png
-      style: "width: 400px"
-  #   height: '48px'
-  #   title: 纯净轻快
-  #   details: 拒绝广告与臃肿功能，只做输入本身，启动快，占用低。
 ---
 
