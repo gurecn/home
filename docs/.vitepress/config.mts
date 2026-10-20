@@ -1,11 +1,11 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/home/',
+  base: '/',
   title: "语燕输入法",
   description: "纯净、安全、轻快的输入法",
   head: [
-    ['link', { rel: 'icon', href: '/home/logo.svg' }] 
+    ['link', { rel: 'icon', href: '/logo.svg' }] 
   ],
   themeConfig: {
     aside: false,
