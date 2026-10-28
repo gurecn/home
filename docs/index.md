@@ -4,17 +4,20 @@ layout: home
 hero:
   name: "语燕输入法"
   text: "纯净、安全、轻快"
-  tagline: "无广告 <br>无网络 <br>输入数据锁在您的手机"
+  tagline: "无广告 无网络 <br>输入数据锁在您的手机"
   image:
     src: /background.gif
     alt: 背景图
   actions:
     - theme: brand
-      text: Github下载
-      link: https://github.com/gurecn/YuyanIme/releases
+      text: Github
+      link: https://github.com/gurecn/YuyanIme
+    - theme: brand
+      text: Gitee
+      link: https://gitee.com/gurecn/YuyanIme
     - theme: alt
-      text: Gitee下载
-      link: https://gitee.com/gurecn/YuyanIme/releases
+      text: SDK
+      link: https://github.com/gurecn/yuyansdk
 
 features:
   - icon: 🪶
