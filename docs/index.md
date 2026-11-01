@@ -1,0 +1,48 @@
+---
+layout: home
+
+hero:
+  name: "语燕输入法"
+  text: "纯净、安全、轻快"
+  tagline: "无广告 无网络 <br>输入数据锁在您的手机"
+  image:
+    src: /background.gif
+    alt: 背景图
+  actions:
+    - theme: brand
+      text: Github
+      link: https://github.com/gurecn/YuyanIme
+    - theme: brand
+      text: Gitee
+      link: https://gitee.com/gurecn/YuyanIme
+    - theme: alt
+      text: SDK
+      link: https://github.com/gurecn/yuyansdk
+
+features:
+  - icon: 🪶
+    title: 纯净轻快
+    details: 九键、全拼、双拼，覆盖不同习惯。
+  - icon: 🔒
+    title: 隐私安全
+    details: 完全离线，不采集、不上传数据。
+  - icon: 🎨
+    title: 个性配置
+    details: 悬浮、单手、数字行等键盘模式。
+  - icon: 🤝
+    title: 开源共建
+    details: 代码开源，随时审查、反馈及交流。
+  - icon:  
+      src: /1.png
+      style: "width: 400px"
+  - icon:
+      src: /2.png
+      style: "width: 400px"
+  - icon:
+      src: /3.png
+      style: "width: 400px"
+  - icon:
+      src: /4.png
+      style: "width: 400px"
+---
+

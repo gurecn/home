@@ -1,0 +1,38 @@
+/* ===== CTA wrapper spacing ===== */
+.cta-wrapper {
+  margin-top: 48px;
+  padding-bottom: 64px;
+}
+
+@media (max-width: 640px) {
+  .cta-wrapper {
+    margin-top: 32px;
+    padding-bottom: 48px;
+  }
+}
+
+/* ===== Responsive layout width ===== */
+
+/* Cap content width on large screens for focused reading */
+.VPHome {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Reduce horizontal padding on laptops and smaller desktops */
+@media (max-width: 1440px) {
+  .VPHero,
+  .VPFeatures {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+}
+
+@media (max-width: 960px) {
+  .VPHero,
+  .VPFeatures {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+}
