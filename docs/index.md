@@ -10,14 +10,11 @@ hero:
     alt: 背景图
   actions:
     - theme: brand
-      text: Github
-      link: https://github.com/gurecn/YuyanIme
-    - theme: brand
-      text: Gitee
-      link: https://gitee.com/gurecn/YuyanIme
+      text: GitHub 下载
+      link: https://github.com/gurecn/YuyanIme/releases
     - theme: alt
-      text: SDK
-      link: https://github.com/gurecn/yuyansdk
+      text: Gitee 下载
+      link: https://gitee.com/gurecn/YuyanIme/releases
 
 features:
   - icon: 🪶
